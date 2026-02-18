@@ -30,7 +30,7 @@ Check the release
 
 1. set Digital Ocean TOKEN
 ```
-export MCLOUD_DIGITALOCEAN_TOKEN="dop_v1_xxxxxxxxxxxx..."
+export MCLOUD_DIGITALOCEAN_TOKEN="dop_xxxxxxxxxxxx..."
 ```
 2. Register the ssh public key of the computer you want to use with the DigitalOcean.
 3. Add your private key to the ssh-agent
